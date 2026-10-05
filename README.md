@@ -69,7 +69,7 @@
 
 | 操作系统 | 命令 |
 |---|---|
-| **Windows**（脚本） | `Setup_CMP30HX_WindowsAIO.bat -uninstall` |
+| **Windows**（脚本） | `Setup_CMP30HX.bat -uninstall` |
 
 工具将自动删除系统计划任务或注册表自启项、程序安装目录以及临时文件。
 
