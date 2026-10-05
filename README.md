@@ -6,9 +6,7 @@
 - **无需修改 BIOS** — 纯软件层拦截干预，无需刷写主板 BIOS 或显卡 VBIOS。
 
 > [!TIP]
-> - **原 GitHub 仓库**: [https://github.com/ngthaihoc/CMP30HXmodtoGEN2](https://github.com/ngthaihoc/CMP30HXmodtoGEN2)
-> 
-> 用Agent写的，原仓库脚本的问题太多了……
+> - 用 DeepSeek 写的改进脚本，`README`自己稍微改了点，原仓库脚本的问题太多了，电脑简直无法日常使用……
 
 ## 1. 准备工作
 
