@@ -7,6 +7,7 @@
 
 > [!TIP]
 > - **原 GitHub 仓库**: [https://github.com/ngthaihoc/CMP30HXmodtoGEN2](https://github.com/ngthaihoc/CMP30HXmodtoGEN2)
+> 
 > 用Agent写的，原仓库脚本的问题太多了……
 
 ## 1. 准备工作
@@ -87,4 +88,5 @@
 ## 致谢
 
 > 本项目受 **CMP40HX-Unlock** 早期研究工作的启发。
+> 
 > 原仓库：[https://github.com/ngthaihoc/CMP30HXmodtoGEN2](https://github.com/ngthaihoc/CMP30HXmodtoGEN2)
